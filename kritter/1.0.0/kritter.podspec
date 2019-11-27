@@ -79,7 +79,7 @@ Pod::Spec.new do |spec|
   #
 
   #spec.source       = { :git => "http://EXAMPLE/kritter.git", :tag => "#{spec.version}" }
-  spec.source       = { :git => "https://github.com/hirohanin/ios-sdk-framework.git", :tag => "1.0.0" }
+  spec.source       = { :git => "https://github.com/hirohanin/ios-sdk-framework.git", :tag => "1.0.4" }
   #spec.source       = { :git => "git@github.com:hirohanin/kritter-ios-sdk.git", :branch => "dev" }
 
 
